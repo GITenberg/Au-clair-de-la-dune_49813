@@ -1,10 +1,16 @@
 _repo: Au-clair-de-la-dune_49813
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49813-h/images/cover.jpg
 creator:
   author:
     agent_name: Hannon, Théo
     gutenberg_agent_id: '45553'
     url: http://www.gutenberg.org/2009/agents/45553
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49813#Au-clair-de-la-dune
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Poésie
